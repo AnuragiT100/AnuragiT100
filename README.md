@@ -18,7 +18,8 @@ My goal is to pursue **research-driven opportunities** focused on multiphase gra
 ##  Research Interests
 
 -  Granular Soil Behavior & Rheology  
--  Geotechnical Earthquake Engineering  
+-  Geotechnical Earthquake Engineering
+-  Structural Health MOnitoring
 -  Soil-Structure Interaction  
 -  Multiphase Flow & Liquefaction  
 -  Energy-Geotechnics & Infrastructure Resilience  
